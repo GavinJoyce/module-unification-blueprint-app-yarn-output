@@ -1,0 +1,6 @@
+{
+  "name": "module-unification-blueprint-app-yarn-output",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
